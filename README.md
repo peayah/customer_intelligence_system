@@ -1,1 +1,1 @@
-# customer_intelligence_system
+# customer intelligence system
