@@ -1,16 +1,10 @@
 /data/
 
-# all pickle files
-*.pkl 
-investigated_data.pkl
-cleaned_data.pkl
-data.pkl
-
 # all parquet files
 *.parquet
-investigated_data.parquet
 cleaned_data.parquet
 data.parquet
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
